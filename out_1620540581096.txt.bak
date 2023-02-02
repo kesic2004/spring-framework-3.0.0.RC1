@@ -1,0 +1,75 @@
+---
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-transaction\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-web-portlet\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-web-servlet\.classpath
+<classpathentry kind="var" path="IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0.CR3/com.springsource.javax.validation-1.0.0.CR3.jar" sourcepath="/IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.CR3.jar"></classpathentry>
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-expression\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-instrument\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-aop\.classpath
+<classpathentry kind="var" path="F:/repo1/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.jar" sourcepath="F:/repo1/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0-sources.jar"></classpathentry>
+<classpathentry kind="var" path="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" sourcepath="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0-sources.jar"></classpathentry>
+<classpathentry kind="var" path="F:/repo1/org/aspectj/com.springsource.org.aspectj.weaver/1.6.5.RELEASE/com.springsource.org.aspectj.weaver-1.6.5.RELEASE.jar" sourcepath="IVY_CACHE/org.aspectj/com.springsource.org.aspectj.weaver/1.6.5.RELEASE/com.springsource.org.aspectj.weaver-sources-1.6.5.RELEASE.jar"></classpathentry>
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-asm\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-aspects\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-beans\.classpath
+<classpathentry kind="var" path="F:/repo1/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.jar" sourcepath="F:/repo1/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0-sources.jar"></classpathentry>
+<classpathentry kind="var" path="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" sourcepath="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0-sources.jar"></classpathentry>
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-context-support\.classpath
+<classpathentry kind="var" path="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" sourcepath="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0-sources.jar"></classpathentry>
+<classpathentry kind="var" path="F:/repo1/net/sourceforge/ehcache/com.springsource.net.sf.ehcache/1.6.2/com.springsource.net.sf.ehcache-1.6.2.jar"></classpathentry>
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-context\.classpath
+<classpathentry kind="var" path="F:/repo1/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.jar" sourcepath="F:/repo1/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0-sources.jar"></classpathentry>
+<classpathentry kind="var" path="IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0.CR3/com.springsource.javax.validation-1.0.0.CR3.jar" sourcepath="/IVY_CACHE/javax.validation/com.springsource.javax.validation/1.0.0/com.springsource.javax.validation-sources-1.0.0.CR3.jar"></classpathentry>
+<classpathentry kind="var" path="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" sourcepath="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0-sources.jar"></classpathentry>
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-core\.classpath
+<classpathentry kind="var" path="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0.jar" sourcepath="F:/repo1/org/junit/com.springsource.org.junit/4.7.0/com.springsource.org.junit-4.7.0-sources.jar"></classpathentry>
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-instrument-tomcat\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-integration-tests\.classpath
+<classpathentry kind="var" path="F:/repo1/javax/portlet/com.springsource.javax.portlet/2.0.0/com.springsource.javax.portlet-2.0.0.jar" sourcepath="F:/repo1/javax/portlet/com.springsource.javax.portlet/2.0.0/com.springsource.javax.portlet-2.0.0-sources.jar"></classpathentry>
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-jdbc\.classpath
+<classpathentry kind="var" path="F:/repo1/org/apache/commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar" sourcepath="F:/repo1/org/apache/commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1-sources.jar"></classpathentry>
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-jms\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-orm\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-oxm\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-samples-petclinic\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-test\.classpath
+
+F:\spring-framework-3.0.x\spring-framework-3.0.0.RC1\spring-web\.classpath
+<classpathentry kind="var" path="F:/repo1/org/codehaus/jackson/com.springsource.org.codehaus.jackson.mapper/1.0.0/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar" sourcepath="F:/repo1/org/codehaus/jackson/com.springsource.org.codehaus.jackson.mapper/1.0.0/com.springsource.org.codehaus.jackson.mapper-1.0.0-sources.jar"></classpathentry>
+<classpathentry kind="var" path="F:/repo1/org/codehaus/jackson/com.springsource.org.codehaus.jackson/1.0.0/com.springsource.org.codehaus.jackson-1.0.0.jar" sourcepath="F:/repo1/org/codehaus/jackson/com.springsource.org.codehaus.jackson/1.0.0/com.springsource.org.codehaus.jackson-1.0.0-sources.jar"></classpathentry>
+
+/string-oxm
+/string-aop
+/string-web-servlet
+/string-test
+/string-context
+/string-beans
+/string-web
+/string-context-support
+/string-core
+/string-instrument
+/string-expression
+/string-jms
+/string-transaction
+/string-web-portlet
+/string-jdbc
+/string-orm

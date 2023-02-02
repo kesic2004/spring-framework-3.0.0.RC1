@@ -1,0 +1,5 @@
+    <dependency>
+        <groupId>javax.persistence</groupId>
+        <artifactId>com.springsource.javax.persistence</artifactId>
+        <version>1.0.0</version>
+    </dependency>
