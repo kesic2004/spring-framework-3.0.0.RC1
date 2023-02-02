@@ -1,5 +1,0 @@
-    <dependency>
-        <groupId>org.jboss.vfs</groupId>
-        <artifactId>com.springsource.org.jboss.virtual</artifactId>
-        <version>2.1.0.GA</version>
-    </dependency>
